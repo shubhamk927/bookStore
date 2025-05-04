@@ -57,3 +57,11 @@ This project can be further enhanced with features such as:
 * User authentication.
 * Searching and filtering functionality.
 * Integration with a real backend API.
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit pull requests.
+
+## License
+
+[Your License]
