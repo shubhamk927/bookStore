@@ -61,7 +61,3 @@ This project can be further enhanced with features such as:
 ## Contributing
 
 Contributions are welcome! Please feel free to submit pull requests.
-
-## License
-
-[Your License]
